@@ -1,0 +1,7 @@
+reference: https://www.codejava.net/frameworks/spring-boot/spring-boot-crud-example-with-spring-mvc-spring-data-jpa-thymeleaf-hibernate-mysql
+
+
+Steps: Maven Build -> goal spring-boot:run
+or
+Steps: Maven Build -> goal package
+java -jar ProductManager-0.0.1-SNAPSHOT.jar
